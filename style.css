@@ -1,0 +1,17 @@
+thead {
+    font-weight: bold;
+    background-color: darkgray;
+}
+table {
+    border-collapse: collapse;
+    width: 500px;
+}
+th, td {
+    border: black 1px solid;
+}
+#name {
+    background-color: lightgray;
+}
+#city {
+    background-color: lightgray;
+}
